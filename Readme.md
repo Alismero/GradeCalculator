@@ -43,7 +43,7 @@ I created this project during the 1st class, 1st semester of my Computer Enginee
 
 ### Little Warning !
 
-I created a binary file called Data.dat, which contains an empty dictionary ({}). This file is necessary for the program to run properly. If you encounter a "File not found" error, please copy the path of the Data.dat file and paste it into the following sections:
+I created a binary file called `Data.dat`, which contains an empty dictionary (`{}`). This file is necessary for the program to run properly. If you encounter a "File not found" error, please copy the path of the Data.dat file and paste it into the following sections:
 
 - File opening part (At the begginning of the program)
 ```python
