@@ -85,9 +85,9 @@ Developed by [Ali Kazancı](https://github.com/Alismero). Feel free to check out
 ### Notes
 I used hard formatting in some parts of my code, and there might be more efficient ways to do it. You may give me feedback.
 
-I use Ankara University's grade ranges for calculating GPA, as mentioned in GradeWeights.png. If your grade ranges are different, you can modify them in the GeneralAverageV2 function. (The reason there are two GeneralAverage functions is that I initially coded GeneralAverageV1 based on an arithmetic average system. However, after learning Ankara University's grading system, I updated it and created GeneralAverageV2.)
+I use Ankara University's grade ranges for calculating GPA, as mentioned in `GradeWeights.png`. If your grade ranges are different, you can modify them in the GeneralAverageV2 function. (The reason there are two GeneralAverage functions is that I initially coded GeneralAverageV1 based on an arithmetic average system. However, after learning Ankara University's grading system, I updated it and created GeneralAverageV2.)
 
-You can view a part of my development process in the GC.excalidraw file. You can open it at [excalidraw](www.excalidraw.com), or you can download the Excalidraw extension for VS Code to open it directly.
+You can view a part of my development process in the `GC.excalidraw` file. You can open it at [excalidraw](www.excalidraw.com), or you can download the Excalidraw extension for VS Code to open it directly.
 
 If you encounter any issues or have suggestions for improvement, please open an issue in the repository or contact me directly through GitHub.
 
